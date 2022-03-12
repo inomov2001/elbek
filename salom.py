@@ -327,3 +327,5 @@ mydb = mysql.connector.connect(
     passwd="password",
     database="database name"
 )
+
+print("Hello")
