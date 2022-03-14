@@ -329,3 +329,6 @@ mydb = mysql.connector.connect(
 )
 
 print("Hello")
+print(" man ozgarish qoshdim ")
+print(" man ozgarish qoshdim ")
+print(" man ozgarish qoshdim ")
